@@ -3006,7 +3006,7 @@
 			(pintype "unspecified")
 			(uuid "1da834d8-af05-466e-999a-b04a0e96a60c")
 		)
-		(model "${MicroSD_473092651}/473092651.stp"
+		(model "C:/Users/OvO/Desktop/Projects/ZZ -Embedded Library (KiCAD)-ZZ/473092651/473092651.stp"
 			(offset
 				(xyz 0 -0.5 1)
 			)
