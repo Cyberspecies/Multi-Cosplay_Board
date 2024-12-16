@@ -4568,6 +4568,116 @@
 		)
 		(uuid "ff1ea2ff-b41d-45d8-b138-2a4c9f9ad26f")
 	)
+	(rectangle
+		(start 83.82 127)
+		(end 99.06 144.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6a80d8f7-a681-4c88-8f4d-7677c17e0d69)
+	)
+	(rectangle
+		(start 41.91 127)
+		(end 58.42 149.86)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f73a265b-ade2-417f-80a5-25670b15f11d)
+	)
+	(rectangle
+		(start 63.5 127)
+		(end 78.74 144.78)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid fb8bec7a-624a-45ed-958a-8a60b914aed6)
+	)
+	(text "HUB75 Combined Pins"
+		(exclude_from_sim no)
+		(at 50.292 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1218c99e-4bcd-4032-b7b3-e0bcf63180cb")
+	)
+	(text "HUB75 Display 0"
+		(exclude_from_sim no)
+		(at 71.12 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "78d9d487-cd93-40bf-97ba-5c55a5bd9a6e")
+	)
+	(text "HUB75 Display 1"
+		(exclude_from_sim no)
+		(at 91.44 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "905a2f2c-20b1-462c-8c90-16c1357e3aaf")
+	)
+	(global_label "HUB75 B1"
+		(shape input)
+		(at 64.77 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05214568-35aa-4518-8472-5719e5d14ea1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.5523 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 OE"
+		(shape input)
+		(at 43.18 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0bdc3ba0-6742-44d6-8c58-6296e50004e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 55.9623 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB -"
 		(shape input)
 		(at 255.27 55.88 0)
@@ -4590,6 +4700,358 @@
 			)
 		)
 	)
+	(global_label "HUB75 B0"
+		(shape input)
+		(at 64.77 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0ecf476f-c410-42e0-9a6e-5bf5acfebd1a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.5523 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 B"
+		(shape input)
+		(at 43.18 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1543d70d-495d-466e-8fd2-7d7f75af50e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.7528 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 A"
+		(shape input)
+		(at 43.18 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1b7773dd-51b5-4dc6-97ea-03b9f8a0296d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.5714 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 CLK"
+		(shape input)
+		(at 43.18 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33aa38f3-a935-495f-b5be-27cfe1c02fc9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.0509 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 R0"
+		(shape input)
+		(at 85.09 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4d060ee4-ea02-4d08-a39b-cfdff3a5b6a9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.8723 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 B1"
+		(shape input)
+		(at 85.09 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5805a6e3-80a7-420f-bc89-46b5097e2f27")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.8723 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 R1"
+		(shape input)
+		(at 85.09 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5b607168-f689-44fb-ac80-bd58423c3067")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.8723 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 E"
+		(shape input)
+		(at 43.18 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c97d30c-c7f7-49d5-a276-5e572eb423a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.6318 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 B0"
+		(shape input)
+		(at 85.09 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "89367745-eb21-4988-ba0e-116be29784df")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.8723 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 G0"
+		(shape input)
+		(at 64.77 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8cd915fc-2303-435e-99b3-1b4e93ff4abd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.5523 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 G1"
+		(shape input)
+		(at 64.77 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d628b0b-fb64-452c-9957-eeab98d448a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.5523 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 R0"
+		(shape input)
+		(at 64.77 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab542200-6656-4bbd-aeaf-f4af919f760f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.5523 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 D"
+		(shape input)
+		(at 43.18 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b3a64036-7556-441d-9cd8-940f039f2bc4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.7528 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 G1"
+		(shape input)
+		(at 85.09 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c075151f-a5a6-4623-a34a-ba12ce22d6f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.8723 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 G0"
+		(shape input)
+		(at 85.09 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c1ef525c-adfb-43df-ab7d-5f84f844937c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.8723 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 R1"
+		(shape input)
+		(at 64.77 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c7b17fa5-7f58-40ee-b0dd-6aa6f25b48bf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.5523 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB +"
 		(shape input)
 		(at 255.27 53.34 0)
@@ -4603,6 +5065,50 @@
 		(uuid "c7f67812-108f-4c6d-a41c-5fe7599463b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 264.6052 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 LAT"
+		(shape input)
+		(at 43.18 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eeabcd96-e9d8-4235-85fb-c09326adc924")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 56.5671 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HUB75 C"
+		(shape input)
+		(at 43.18 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f4ce5fbb-d4d9-4d2a-80dd-47001e861242")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.7528 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
