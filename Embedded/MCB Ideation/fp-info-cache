@@ -1,4 +1,4 @@
-25456746237130689
+25461950554197454
 5V_Regulator_Fixed_LM1084IT
 TO254P1054X470X1955-3
 
@@ -96032,6 +96032,27 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+Sensored
+Sensored
+
+
+0
+13
+4
+Simple_Connector
+1mm 3x3 Pad
+
+
+0
+9
+1
+Simple_Connector
+1mm_4P
+
+
+0
+4
+4
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
